@@ -1,0 +1,36 @@
+rho_target,method,drop_permute,drop_retrain
+0.0,Oracle (true rule),1.306,0.699
+0.0,Permutation importance,1.306,0.699
+0.0,Random ranking,0.51,0.279
+0.0,SHAP (interventional),1.306,0.699
+0.0,SHAP (tree-path),1.306,0.699
+0.25,Oracle (true rule),1.094,0.549
+0.25,Permutation importance,1.094,0.549
+0.25,Random ranking,0.424,0.218
+0.25,SHAP (interventional),1.094,0.549
+0.25,SHAP (tree-path),1.094,0.549
+0.5,Oracle (true rule),0.973,0.37
+0.5,Permutation importance,0.973,0.37
+0.5,Random ranking,0.367,0.148
+0.5,SHAP (interventional),0.973,0.37
+0.5,SHAP (tree-path),0.973,0.37
+0.75,Oracle (true rule),1.028,0.194
+0.75,Permutation importance,1.028,0.194
+0.75,Random ranking,0.355,0.077
+0.75,SHAP (interventional),1.028,0.194
+0.75,SHAP (tree-path),1.028,0.194
+0.9,Oracle (true rule),1.242,0.076
+0.9,Permutation importance,1.242,0.076
+0.9,Random ranking,0.394,0.03
+0.9,SHAP (interventional),1.242,0.076
+0.9,SHAP (tree-path),1.242,0.076
+0.95,Oracle (true rule),1.273,0.039
+0.95,Permutation importance,1.273,0.039
+0.95,Random ranking,0.408,0.015
+0.95,SHAP (interventional),1.273,0.039
+0.95,SHAP (tree-path),1.273,0.039
+0.99,Oracle (true rule),0.877,0.009
+0.99,Permutation importance,0.877,0.009
+0.99,Random ranking,0.303,0.003
+0.99,SHAP (interventional),0.878,0.008
+0.99,SHAP (tree-path),0.861,0.008

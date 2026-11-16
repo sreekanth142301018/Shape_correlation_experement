@@ -1,0 +1,11 @@
+,mean,std
+r2,0.41,0.085
+rmse,57.186,3.083
+add_err_path,0.0,0.0
+add_err_int,0.004,0.001
+spearman_path_vs_pfi,0.696,0.202
+spearman_int_vs_pfi,0.665,0.196
+spearman_path_vs_int,0.988,0.011
+top3_overlap_path_pfi,2.8,0.422
+s1_share_path,0.47,0.09
+s1_share_pfi,0.448,0.357
